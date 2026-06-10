@@ -2,7 +2,7 @@
 
 LIVE DEMO:-https://8v8pvubmmoylpgxztrcndt.streamlit.app/
 
-## Overview
+# Overview
 
 AI-Powered E-Commerce Customer Analytics Dashboard is an end-to-end data analytics project built using Python and Streamlit. The project analyzes retail transaction data to generate business insights through data preprocessing, feature engineering, visualization, and interactive dashboards.
 
@@ -12,7 +12,7 @@ The dashboard enables users to explore sales performance, revenue trends, custom
 
 ## Features
 
-### Data Preprocessing
+## Data Preprocessing
 
 * Data cleaning and duplicate removal
 * Missing value handling
