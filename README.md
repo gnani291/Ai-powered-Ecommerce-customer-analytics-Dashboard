@@ -8,7 +8,6 @@ AI-Powered E-Commerce Customer Analytics Dashboard is an end-to-end data analyti
 
 The dashboard enables users to explore sales performance, revenue trends, customer behavior, data quality metrics, and statistical insights from retail transactions.
 
----
 
 ## Features
 
